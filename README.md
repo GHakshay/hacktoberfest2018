@@ -83,7 +83,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Kanika Agrawal | II | IT | |
 | [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
 | [Prudhvi Rambha](https://github.com/prudhvirambha) | III | CSE | [@prudhvirambha](https://hacktoberfest.digitalocean.com/stats/prudhvirambha) | |
-| [Akshay Kumar](https://github.com/GHakshay/) | III | CSE | [GHakshay]( https://github.com/GHakshay/hacktoberfest2018) |
+| [Akshay Kumar](https://github.com/GHakshay/) | III | CSE | [GHakshay]( https://hacktoberfest.digitalocean.com/stats/GHakshay) |
 | Abhimanyu Shekhawat | II | IT | |
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
